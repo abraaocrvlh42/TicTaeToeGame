@@ -2,7 +2,8 @@
 
 <h2> 📁 Project Structure </h2>
 
-`TicTacToeGame/
+```
+TicTacToeGame/
 ├── Console Version/
 │   ├── TicTacToe.cs               # Console game implementation
 │   └── README.md                  # Console version documentation
@@ -15,7 +16,8 @@
 │
 └── Documentation/
     ├── SOLUTION_GUIDE.md          # Troubleshooting guide
-    └── RENAMING_GUIDE.md          # File naming conventions`
+    └── RENAMING_GUIDE.md          # File naming conventions
+```
 
 <h2>🎨 Design Highlights</h2>
 
