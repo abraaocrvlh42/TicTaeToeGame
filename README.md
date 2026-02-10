@@ -17,7 +17,7 @@ TicTacToeGame/
     ├── SOLUTION_GUIDE.md          # Troubleshooting guide
     └── RENAMING_GUIDE.md          # File naming conventions
 
-🎨 Design Highlights
+<h2>🎨 Design Highlights</h2>
 
 Color Scheme
 Background: Soft gray (#F0F0F5)
