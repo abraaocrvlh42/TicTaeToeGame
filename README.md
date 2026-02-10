@@ -19,13 +19,14 @@ TicTacToeGame/
 
 <h2>🎨 Design Highlights</h2>
 
+<ul>
 Color Scheme
 Background: Soft gray (#F0F0F5)
 Player X: Red (#E74C3C)
 Player O: Blue (#3498DB)
 Winning Combination: Green (#2ECC71)
 Buttons: Various professional colors for different actions
-
+</ul>
 User Experience
 Responsive button interactions with hand cursor
 Clear visual hierarchy with titles, scores, and status
