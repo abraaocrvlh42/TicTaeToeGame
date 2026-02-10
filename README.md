@@ -1,7 +1,7 @@
 
 
-📁 <h1>Project Structure</h1>
-
+<h2> 📁 Project Structure </h2>
+ 
 TicTacToeGame/
 ├── Console Version/
 │   ├── TicTacToe.cs              # Console game implementation
