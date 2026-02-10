@@ -1,21 +1,21 @@
 
 
 <h2> 📁 Project Structure </h2>
- 
-TicTacToeGame/
+
+`TicTacToeGame/
 ├── Console Version/
-│   ├── TicTacToe.cs              # Console game implementation
+│   ├── TicTacToe.cs               # Console game implementation
 │   └── README.md                  # Console version documentation
 │
 ├── Desktop Version/
-│   ├── TicTacToeGame.cs          # Main game logic and UI
-│   ├── TicTacToeGame.Designer.cs # Windows Forms designer file
+│   ├── TicTacToeGame.cs           # Main game logic and UI
+│   ├── TicTacToeGame.Designer.cs  # Windows Forms designer file
 │   ├── Program.cs                 # Application entry point
 │   └── README_Desktop_English.md  # Desktop version documentation
 │
 └── Documentation/
     ├── SOLUTION_GUIDE.md          # Troubleshooting guide
-    └── RENAMING_GUIDE.md          # File naming conventions
+    └── RENAMING_GUIDE.md          # File naming conventions`
 
 <h2>🎨 Design Highlights</h2>
 
