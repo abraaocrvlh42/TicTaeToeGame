@@ -1,19 +1,17 @@
 <h1>Tic-Tac-Toe Game</h1>
 <h2>📋 Project Overview</h2>
-<p>
+
 Tic-Tac-Toe Game is a classic two-player game implementation developed in C# using Windows Forms. This project provides both a console-based version and a modern graphical desktop application, demonstrating fundamental programming concepts and GUI development principles.
-</p>
 
 <h2>🎯 Project Purpose</h2>
-<p>
-This project was created as an educational exercise to demonstrate:
 
-Object-oriented programming principles in C#
-Windows Forms application development
-Game logic implementation
-User interface design
-Event-driven programming
-</p>
+This project was created as an educational exercise to demonstrate:
+<ul>
+<li>Object-oriented programming principles in C#</li>
+<li>Windows Forms application development</li>
+<li>Game logic implementation</li>
+<li>User interface design</li>
+</ul>
 
 <h2>Game Rules</h2>
 <ul>
@@ -28,20 +26,23 @@ Event-driven programming
 </ul>
 
 <h2>Game Controls:</h2>
-
+<ul>
 <li>New Game button to restart quickly</li>
 <li>Reset Score button to clear statistics</li>
 <li>Status Display: Real-time game status and turn indicator</li>
 <li>Win Detection: Automatic detection of all winning patterns</li>
 <li>Draw Detection: Identifies when the game ends in a tie</li>
 <li>User-Friendly: Click-to-play interface with visual feedback</li>
+</ul>
 
 <h2>🛠️ Technologies Used</h2>
 
+<ul>
 <li>Language: C# (.NET Framework 10)</li>
 <li>GUI Framework: Windows Forms</li>
 <li>Development Environment: Visual Studio 2021</li>
 <li>Architecture: Event-driven, object-oriented design</li>
+</ul>
 
 <h2> 📁 Project Structure </h2>
 
@@ -85,8 +86,9 @@ TicTacToeGame/
 <li>String manipulation</li>
 </ul>
 
+
+<h2>Game Logic:</h2>
 <ul>
-<li>Game Logic:</li>
 <li>State management</li>
 <li>Win condition checking (rows, columns, diagonals)</li>
 <li>Turn-based mechanics</li>
