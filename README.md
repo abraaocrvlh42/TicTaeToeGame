@@ -22,10 +22,10 @@ TicTacToeGame/
 <ul>
 <li>Color Scheme</li>
 <li>Background: Soft gray (#F0F0F5)</li>
-Player X: Red (#E74C3C)
-Player O: Blue (#3498DB)
-Winning Combination: Green (#2ECC71)
-Buttons: Various professional colors for different actions
+<li>Player X: Red (#E74C3C)</li>
+<li>Player O: Blue (#3498DB)</li>
+<li>Winning Combination: Green (#2ECC71)</li>
+<li>Buttons: Various professional colors for different actions</li>
 </ul>
 User Experience
 Responsive button interactions with hand cursor
