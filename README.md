@@ -27,15 +27,9 @@ TicTacToeGame/
 <li>Winning Combination: Green (#2ECC71)</li>
 <li>Buttons: Various professional colors for different actions</li>
 </ul>
-<ul>
-User Experience
-Responsive button interactions with hand cursor
-Clear visual hierarchy with titles, scores, and status
-Immediate feedback on every action
-Intuitive layout requiring no instructions
-</ul>
 
 <h2>🎓 Learning Outcomes</h2>
+
 <ul>
 <li>This project demonstrates proficiency in:</li>
 <li>C# Programming:</li>
@@ -45,6 +39,7 @@ Intuitive layout requiring no instructions
 <li>Conditional logic and loops</li>
 <li>String manipulation</li>
 </ul>
+
 <ul>
 <li>Game Logic:</li>
 <li>State management</li>
