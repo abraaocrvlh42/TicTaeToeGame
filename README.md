@@ -27,38 +27,29 @@ TicTacToeGame/
 <li>Winning Combination: Green (#2ECC71)</li>
 <li>Buttons: Various professional colors for different actions</li>
 </ul>
+<ul>
 User Experience
 Responsive button interactions with hand cursor
 Clear visual hierarchy with titles, scores, and status
 Immediate feedback on every action
 Intuitive layout requiring no instructions
+</ul>
 
-🎓 Learning Outcomes
-This project demonstrates proficiency in:
-C# Programming:
-Classes and objects
-Arrays and matrices (2D arrays)
-Methods and event handlers
-Conditional logic and loops
-String manipulation
-
-Windows Forms Development:
-Form creation and customization
-Control management (Buttons, Labels)
-Event handling (Click events)
-Layout design
-Dynamic UI updates
-
-Game Logic:
-State management
-Win condition checking (rows, columns, diagonals)
-Turn-based mechanics
-Score tracking
-Board validation
-
-Software Design:
-Separation of concerns
-Clean code practices
-Meaningful naming conventions
-Code organization
-Documentation
+<h2>🎓 Learning Outcomes</h2>
+<ul>
+<li>This project demonstrates proficiency in:</li>
+<li>C# Programming:</li>
+<li>Classes and objects</li>
+<li>Arrays and matrices (2D arrays)</li>
+<li>Methods and event handlers</li>
+<li>Conditional logic and loops</li>
+<li>String manipulation</li>
+</ul>
+<ul>
+<li>Game Logic:</li>
+<li>State management</li>
+<li>Win condition checking (rows, columns, diagonals)</li>
+<li>Turn-based mechanics</li>
+<li>Score tracking</li>
+<li>Board validation</li>
+</ul>
