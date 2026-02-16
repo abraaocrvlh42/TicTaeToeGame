@@ -13,28 +13,6 @@ This project was created as an educational exercise to demonstrate:
 <li>User interface design</li>
 </ul>
 
-<h2>Game Rules</h2>
-<ul>
-<li>The game is played on a 3x3 grid</li>
-<li>Player X always goes first</li>
-<li>Players alternate turns</li>
-<li>The first player to get 3 marks in a row (horizontal, vertical, or diagonal) wins</li>
-<li>If all 9 squares are filled and no player has won, the game is a draw</li>
-<li>Red color for Player X</li>
-<li>Blue color for Player O</li>
-<li>Green highlighting for winning combinations</li>
-</ul>
-
-<h2>Game Controls:</h2>
-<ul>
-<li>New Game button to restart quickly</li>
-<li>Reset Score button to clear statistics</li>
-<li>Status Display: Real-time game status and turn indicator</li>
-<li>Win Detection: Automatic detection of all winning patterns</li>
-<li>Draw Detection: Identifies when the game ends in a tie</li>
-<li>User-Friendly: Click-to-play interface with visual feedback</li>
-</ul>
-
 <h2>🛠️ Technologies Used</h2>
 
 <ul>
